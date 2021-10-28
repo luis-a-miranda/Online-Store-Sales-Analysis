@@ -1,5 +1,5 @@
 # Internet-Sales-Analysis
-Data exploration and cleaning with SQL.
+Data exploration and cleaning with SQL. Data visualization in Power BI.
 
 Dataset: AdventureWorks2019  [[URL](https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorksDW2019.bak)]
 
