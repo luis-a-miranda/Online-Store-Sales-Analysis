@@ -1,7 +1,8 @@
 # Online Store Revenue Analysis
 
 ## Objective
-The main objective of this project is to analyze and interpret the sales data of an online store to facilitate decision-making, optimize marketing strategies, and enhance overall business operations. Through SQL-based data exploration and cleaning, we aim to extract meaningful insights from the raw sales data. Additionally, by utilizing Power BI for data visualization, we aim to present the analysis in an interactive and visually appealing manner, enabling stakeholders to grasp the sales patterns and trends effortlessly.
+Analyze and interpret the sales data of an online store to facilitate decision-making, optimize marketing strategies, and enhance overall business operations. 
+Through SQL-based data exploration and cleaning, we aim to extract meaningful insights from the raw sales data. Additionally, by utilizing Power BI for data visualization, we aim to present the analysis in an interactive and visually appealing manner, enabling stakeholders to grasp the sales patterns and trends effortlessly.
 
 ## Key Features
 This project offers the following key features and analyses:
