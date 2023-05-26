@@ -1,4 +1,4 @@
-# Online Store Revenue Analysis
+# Online Store Sales Analysis
 
 ## Objective
 Analyze and interpret the sales data of an online store to facilitate decision-making, optimize marketing strategies, and enhance overall business operations.
